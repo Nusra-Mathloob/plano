@@ -1,0 +1,22 @@
+header .cb-navigation9 .nav-item.active {
+    color: #ff8410 !important;
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+    color: #ff8410;
+}
+
+.pricing-table li.price .price-loc {
+    font-size: 16px;
+    color: #908b8b;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.nav-item a.nav-link:hover {
+    color: #ff8410 !important;
+    text-decoration: underline;
+}

@@ -8,7 +8,9 @@ header .cb-navigation9 .nav-item.active {
 .navbar-light .navbar-nav .nav-link.active {
     color: #ff8410;
 }
-
+.cb-header1 .content {
+    margin-top: 50px;
+}
 .pricing-table li.price .price-loc {
     font-size: 16px;
     color: #908b8b;
